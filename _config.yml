@@ -17,7 +17,7 @@ timezone: Europe/Oslo
 # --------------------------
 title: JD-Raymaker # the main title
 
-tagline: Writing something because I con't know   # it will display as the sub-title
+tagline: Writing something because I don't know   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
